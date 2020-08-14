@@ -6,5 +6,5 @@ const MovieShow = ({match, movies}) => {
     </div>
   );
 }
- 
+
 export default MovieShow;
